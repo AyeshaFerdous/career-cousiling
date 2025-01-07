@@ -15,3 +15,18 @@ A platform dedicated to helping users find their ideal career path through perso
 - **Frontend**: React, React Router, Tailwind CSS.  
 - **Backend**: Firebase (Authentication, Firestore, Hosting).  
 - **Routing**: React Router for smooth navigation.  
+
+### **Dependencies:**
+- **React**: For building the user interface.
+- **React Router**: For handling routing and navigation in the app.
+- **Tailwind CSS**: For utility-first CSS to create responsive layouts.
+- **Firebase**: For authentication, Firestore database, and hosting.
+
+## Installation Guide
+
+To run this project locally, follow the steps below:
+
+### 1. Clone the Repository:
+```bash
+git clone https://github.com/AyeshaFerdous/career-counseling.git
+cd career-counseling
